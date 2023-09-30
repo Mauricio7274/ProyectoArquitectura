@@ -1,0 +1,5 @@
+java usado: 19
+
+funcional? no, no consegui que funcionara, no supe como resolver un error relacionado al "org.spring.bean. etc" en varias formas diferentes ni la base de datos de mysql (esta se mantuvo local ya que sin que esta funcionara no tenia sentido contratar un servidor para que pudiera subirse), debido a esto, pruebas unitarias no se completaron su desarrollo debido a (al menos asi lo entendi) sin la debida revision del jacoco y otros test que comprobaran estas no serian validadas. integracion continua obviamente no es funcional. creo que aun asi lo vas a revisar, pero considero que al menos te podia adelantar el poco avance que consegui, intentare para el parcial y 3er corte estar mejor preparado.
+
+integrante: mauricio Andres Valderrama
